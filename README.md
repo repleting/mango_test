@@ -5,11 +5,13 @@ Package containing Peter Ling's solutions to the Mango Python coding test, Septe
 ## Installation
 
 The package can be installed from PyPI via the command line by typing
+
     pip install mango_coding_test_pl_sept20
 
 ## Usage
 
 The solutions can then be used in a Python 3 environment after using the import statement
+
     from mango_test import mango_test as mt
 
 #### Functions
